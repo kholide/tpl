@@ -1,0 +1,14 @@
+{
+    "name": "tpl",
+    "description": "tpl",
+    "keywords": ["tpl"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": ""
+        }
+    },
+    "website": "https://google.com",
+    "repository": "https://github.com",
+    "stack": "container"
+}
